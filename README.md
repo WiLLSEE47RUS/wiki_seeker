@@ -1,3 +1,7 @@
+#Поиск по википедии
+Реализован на ReactJs с использованием Wiki API, есть возможность смены языкового сегмента википедии для поиска.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
