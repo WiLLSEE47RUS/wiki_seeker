@@ -39,27 +39,7 @@ function App() {
 
     return (
         <div className="App">
-            <Header
-                lang={lang}
-                search={search}
-                setSearch={setSearch}
-                handleSearch={handleSearch}
-                searchInfo={searchInfo}
-            />
-            <SwitchLang
-                lang={lang}
-                setLang={setLang}
-                swLangVis={swLangVis}
-            />
-            <Results
-                lang={lang}
-                results={results}
-            />
-            <Popup
-                lang = {lang}
-                trigger={trigger}
-                setTrigger={setTrigger}
-            />
+             А тут игра будет
         </div>
     );
 }
